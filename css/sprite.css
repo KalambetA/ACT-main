@@ -1,0 +1,5 @@
+.icn
+{ display: inline-block; background: url('../images/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.workers { background-position: -0px -0px; width: 40px; height: 41px; }
+.join { background-position: -0px -41px; width: 27px; height: 33px; }

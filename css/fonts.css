@@ -1,0 +1,20 @@
+/* font-family: "FuturaCondensedRegular"; */
+@font-face {
+    font-family: "FuturaCondensedRegular";
+    src: url("../fonts/FuturaCondensedRegular/FuturaCondensedRegular.eot");
+    src: url("../fonts/FuturaCondensedRegular/FuturaCondensedRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/FuturaCondensedRegular/FuturaCondensedRegular.woff") format("woff"),
+    url("../fonts/FuturaCondensedRegular/FuturaCondensedRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "FuturaCondensedNormal"; */
+@font-face {
+    font-family: "FuturaCondensedNormal";
+    src: url("../fonts/FuturaCondensedNormal/FuturaCondensedNormal.eot");
+    src: url("../fonts/FuturaCondensedNormal/FuturaCondensedNormal.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/FuturaCondensedNormal/FuturaCondensedNormal.woff") format("woff"),
+    url("../fonts/FuturaCondensedNormal/FuturaCondensedNormal.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
